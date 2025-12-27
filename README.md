@@ -20,7 +20,7 @@ Neo is a modern, fast, and user-friendly CLI tool designed to make your terminal
 ### Build from Source
 
 ```bash
-git clone https://github.com/yourusername/neo.git
+git clone https://github.com/hackpie11/neo.git
 cd neo
 cargo build --release
 sudo cp target/release/neo /usr/local/bin/
