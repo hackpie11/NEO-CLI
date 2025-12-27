@@ -1,4 +1,4 @@
-# Neo
+# Neo by KUSH
 
 > "The terminal, but smarter."
 
